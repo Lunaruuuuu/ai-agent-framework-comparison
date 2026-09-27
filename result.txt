@@ -1,0 +1,63 @@
+===== LLAMAINDEX RESULT =====
+### Sales Performance Report
+
+* **Total Revenue:** $8,500.00  
+* **Total Units Sold:** 35 units  
+* **Average Revenue per Unit:** $242.86  
+* **Top-Performing Product by Revenue:** Laptop Pro ($7,500.00 across 5 units)
+
+---
+
+### Business Conclusion
+While accessories like the Wireless Mouse drive the highest sales volume (20 units), the **Laptop Pro** accounts for over 88% of total revenue. Premium, high-ticket items are the primary growth and revenue engine for the business, whereas accessories function well as supplementary volume drivers that could benefit from cross-selling and bundling strategies.
+
+Latency: 51.36 seconds
+
+
+===== CREWAI RESULT =====
+# Sales Performance Analysis Report
+
+## Executive Summary
+This report analyzes sales performance across three product lines: Laptop Pro, Wireless Mouse, and Mechanical Keyboard. 
+
+---
+
+## Key Performance Metrics
+* **Total Revenue:** $8,500.00
+* **Total Units Sold:** 35 units
+* **Average Revenue per Unit:** $242.86
+* **Top-Performing Product by Revenue:** Laptop Pro ($7,500.00)
+
+---
+
+## Product Breakdown
+
+| Product Name | Quantity Sold | Unit Price | Total Revenue | % of Total Revenue |
+| :--- | :---: | :---: | :---: | :---: |
+| **Laptop Pro** | 5 | $1,500.00 | $7,500.00 | 88.24% |
+| **Wireless Mouse** | 20 | $25.00 | $500.00 | 5.88% |
+| **Mechanical Keyboard** | 10 | $50.00 | $500.00 | 5.88% |
+| **Total** | **35** | — | **$8,500.00** | **100.00%** |
+
+---
+
+## Key Insights
+1. **Revenue Concentration:** The **Laptop Pro** is the primary revenue driver, accounting for **88.24%** of total sales, despite representing only 14.29% of unit volume.
+2. **Volume Leader:** The **Wireless Mouse** led in units moved (20 units, 57.14% of total units), serving as a high-volume, low-margin accessory.
+3. **Accessories Balance:** The Wireless Mouse and Mechanical Keyboard contributed equally to dollar revenue ($500.00 each), but together make up under 12% of overall gross sales.
+
+Latency: 87.37 seconds
+
+
+===== AGNO RESULT =====
+## Sales Performance Report
+
+* **Total Revenue:** $8,500.00
+* **Total Units Sold:** 35 units
+* **Average Revenue per Unit:** $242.86
+* **Top-Performing Product by Revenue:** Laptop Pro ($7,500.00)
+
+### Business Insights & Conclusion
+While peripheral items like the Wireless Mouse drove the highest unit volume (20 units), the **Laptop Pro** is the primary revenue driver, generating over 88% of total sales. Business strategy should focus on sustaining high-margin laptop sales while leveraging peripherals as bundled add-ons to increase overall basket size and order value.
+
+Latency: 31.87 seconds

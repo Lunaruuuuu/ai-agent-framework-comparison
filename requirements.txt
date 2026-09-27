@@ -1,0 +1,6 @@
+agno
+crewai
+llama-index
+llama-index-llms-google-genai
+google-genai
+python-dotenv
